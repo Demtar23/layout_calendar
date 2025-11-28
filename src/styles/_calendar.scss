@@ -12,7 +12,7 @@
     width: $cell-size;
     height: $cell-size;
     background: $color;
-    border: 1px solid #000;
+    border: $border solid #000;
     font-family: Arial, sans-serif;
     font-size: 30px;
     position: relative;
